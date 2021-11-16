@@ -1,0 +1,28 @@
+{
+    "personeller":[
+        {
+            "id":"1",
+            "isim":"yashar",
+            "yas":"41",
+            "email":"yashar@gmail.cim"
+        },
+        {
+            "id":"2",
+            "isim":"",
+            "yas":"43",
+            "email":"pone@gmail.cim"
+        },
+        {
+            "id":"3",
+            "isim":"nima",
+            "yas":"31",
+            "email":"nima@gmail.cim"
+        },
+        {
+            "id":"4",
+            "isim":"gezal",
+            "yas":"37",
+            "email":"gezal@gmail.cim"
+        }
+    ]
+}
